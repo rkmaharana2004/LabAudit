@@ -20,3 +20,4 @@ build/
 # Environment & Logs
 *.log
 .env
+labaudit_project_blueprint.md
